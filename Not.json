@@ -1,0 +1,57 @@
+{
+  "caption": "Not",
+  "gates": [],
+  "outputs": [
+    {
+      "x": "450",
+      "y": "210",
+      "colr": "0"
+    }
+  ],
+  "inputs": [
+    {
+      "x": "75",
+      "y": "195",
+      "framecount": "-1",
+      "clock": "false",
+      "pos": 0
+    }
+  ],
+  "wires": [
+    {
+      "x1": "90",
+      "y1": "210",
+      "x2": "450"
+    }
+  ],
+  "busses": [],
+  "conpoints": [],
+  "diodes": [],
+  "customs": [
+    {
+      "x": "240",
+      "y": "180",
+      "direction": "0",
+      "filename": "\"not-gate.json\"",
+      "outputsInv": "[]",
+      "inputsInv": "[]"
+    }
+  ],
+  "labels": [
+    {
+      "x": "90",
+      "y": "150",
+      "txt": "A"
+    },
+    {
+      "x": "450",
+      "y": "150",
+      "txt": "Q"
+    }
+  ],
+  "segDisplays": [],
+  "busWrappers": [],
+  "busUnwrappers": [],
+  "busInputs": [],
+  "decoders": []
+}
